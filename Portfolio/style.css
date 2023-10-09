@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #000!important;
+}
+
+.nav-item{
+  padding-left: 20px;
+  font-size: 18px;
+}
+
+.navbar-brand{
+  color: #fff!important;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 30px!important;
+}
+
+
+.center{
+  text-align: center!important;
+}
+
+.profile{
+  height: 100%;
+  width: 100%;
+ border-style: double;
+ border-color: #DC3545;
+}
+
+.about{
+  text-align: justify!important;
+  padding-top: 50px;
+  border-top-style: dotted;
+  border-color: #DC3545;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.font{
+  font-family: serif;
+}
+
+.info{
+  padding-top: 80px;
+}
+
+.download-cv{
+  padding-top: 20px!important;
+  padding-bottom: 20px!important;
+}
+
+.aboutme{
+  font-family: serif;
+  color: #DC3545;
+  padding-top: 20px;
+  font-size: 30px;
+}
+
+.justify{
+  text-align: justify;
+}
+
+
+  . copyright {
+    max-width: 568px;
+    margin: 40px auto 0;
+    padding-top: 40px;
+}
+
+.color{
+  color: #DC3545;
+}
+
+.images{
+  height: 100%;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
